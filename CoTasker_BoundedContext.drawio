@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T16:20:47.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" version="21.6.6" etag="wTxCEzB5n9vfo1AoG1Fc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-05T16:56:07.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="kSrmpz1YTS9btLxIUJJx" version="21.6.6" type="github">
   <diagram name="Página-1" id="NvzPgabB56JG8CDr3OxP">
-    <mxGraphModel>
+    <mxGraphModel dx="1432" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zJzvodQT1uNUjvgfhES7-21" value="Información de la pagina" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="445" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-22" value="Listas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-23" value="Tareas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-24" value="Roles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-25" value="Listas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-26" value="Usuarios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-27" value="Equipos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-28" value="Trazabilidades" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-29" value="Proyectos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-30" value="Personalizaciones" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-31" value="Estadisticas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-32" value="Accesos (Grupos de trabajo)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJzvodQT1uNUjvgfhES7-33" value="Notificaciones" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
