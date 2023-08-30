@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T21:23:22.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="KQ8sWdN_ZgTj7E8e2zMx" version="21.7.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-30T21:25:33.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="NqYRlXhgPfOcADS8hTrG" version="21.7.0" type="github" pages="13">
   <diagram id="-_urdX1vq66WWAMTATVX" name="BigPicture">
     <mxGraphModel dx="2084" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,6 +197,9 @@
         </mxCell>
         <mxCell id="UO8W041eSeWvJJt7fPCa-3" value="PartnerShip" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-340" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FQrCYryCg1cHTC-tPSar-1" value="PartnerShip" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="820" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
