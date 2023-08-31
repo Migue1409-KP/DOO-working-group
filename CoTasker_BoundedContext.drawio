@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T05:18:55.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mZrhKVDOcOEgeaJpFdD4" version="21.7.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-08-31T05:27:08.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3hOz4Pb4raaOBH_rNz2n" version="21.7.1" type="github" pages="14">
   <diagram id="-_urdX1vq66WWAMTATVX" name="BigPicture">
     <mxGraphModel dx="2465" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2088,10 +2088,22 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aI_A-_ZwWPehArNnT7lD" name="Event Storming Maping Projects">
-    <mxGraphModel dx="169" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="469" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L_F2vpwSsjQ5ma5BCyPL-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="-6.20001220703125" as="sourcePoint" />
+            <mxPoint x="1120" y="-467" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L_F2vpwSsjQ5ma5BCyPL-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="-7.20001220703125" as="sourcePoint" />
+            <mxPoint x="880" y="-468" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uqddBCoEwL0ZZ8xfV3UB-10" value="Estado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2167,18 +2179,6 @@
         </mxCell>
         <mxCell id="BcuQke_fda-pgt6Bo6pW-14" value="MetricaProyectos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="97.5" y="-180" width="125" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L_F2vpwSsjQ5ma5BCyPL-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="-7.20001220703125" as="sourcePoint" />
-            <mxPoint x="880" y="-468" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L_F2vpwSsjQ5ma5BCyPL-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="-6.20001220703125" as="sourcePoint" />
-            <mxPoint x="1120" y="-467" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
