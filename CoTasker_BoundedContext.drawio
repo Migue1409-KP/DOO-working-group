@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T05:17:26.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="nA_1E-WrynoDFNQ2Lcxa" version="21.7.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-08-31T05:18:55.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mZrhKVDOcOEgeaJpFdD4" version="21.7.1" type="github" pages="14">
   <diagram id="-_urdX1vq66WWAMTATVX" name="BigPicture">
     <mxGraphModel dx="2465" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2035,7 +2035,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SsZM_QrPl5ihclggFeaH" name="Event storming maping stats">
-    <mxGraphModel dx="1050" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="469" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2087,8 +2087,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="aI_A-_ZwWPehArNnT7lD" name="Página-14">
-    <mxGraphModel dx="1167" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="469" math="0" shadow="0">
+  <diagram id="aI_A-_ZwWPehArNnT7lD" name="Event Storming Maping Projects">
+    <mxGraphModel dx="169" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2155,8 +2155,9 @@
             <mxPoint x="160" y="-251" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L_F2vpwSsjQ5ma5BCyPL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;" edge="1" parent="1" source="BcuQke_fda-pgt6Bo6pW-14" target="uqddBCoEwL0ZZ8xfV3UB-17">
+        <mxCell id="L_F2vpwSsjQ5ma5BCyPL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;" edge="1" parent="1" source="BcuQke_fda-pgt6Bo6pW-14">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="-270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="760" y="-150" />
               <mxPoint x="760" y="-270" />
