@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T04:25:01.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vxXnvLZ431G-Km0JKRrb" version="21.7.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-31T04:31:50.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="7UT1TW2XEsGUAvJg7hIL" version="21.7.1" type="github" pages="13">
   <diagram id="-_urdX1vq66WWAMTATVX" name="BigPicture">
-    <mxGraphModel dx="1877" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2465" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BoundedContext" id="NvzPgabB56JG8CDr3OxP">
-    <mxGraphModel dx="1877" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2465" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WelAj7SbBxIv_Q1g23-m" name="AnemicModelProjects">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2465" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,7 +316,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SRg1nqIte7tr0Edfe1yB" name="AnemicModelStatistics">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="241" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,7 +326,7 @@
         <mxCell id="Nl86rFWW6MOGj9CG-IKO-1" value="Metrica" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="370" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q3hLd_3_GRBT__Ab2X1A-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pqG_MheOL7w11JjGCFN--1" target="q3hLd_3_GRBT__Ab2X1A-1" edge="1">
+        <mxCell id="q3hLd_3_GRBT__Ab2X1A-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="pqG_MheOL7w11JjGCFN--1" target="q3hLd_3_GRBT__Ab2X1A-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KoKckga0jhqK3_iBEa05-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="pqG_MheOL7w11JjGCFN--1" target="KoKckga0jhqK3_iBEa05-2" edge="1">
@@ -450,7 +450,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dOH7-tgWkDvETmAkOSDi" name="AnemicModelInformationApp">
-    <mxGraphModel dx="1050" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -568,7 +568,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8hLWuv70BP-Ym9GBsDD8" name="AnemicModelNotifications">
-    <mxGraphModel dx="223" dy="-590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="811" dy="-264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -639,7 +639,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HZ_cif7Yk3sHwfe0x9qZ" name="AnemicModelPersonalization">
-    <mxGraphModel dx="1050" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -746,7 +746,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hHdy-_Ux-i5NpiynFQn6" name="AnemicModelTeams">
-    <mxGraphModel dx="1050" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -983,7 +983,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9G7U_M0CMx94eh2U-Xa_" name="AnemicModelAccess">
-    <mxGraphModel dx="1050" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1033,7 +1033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="goSpOSvy5qB9A--Nil6E" name="VisualStoryMappingV1">
-    <mxGraphModel dx="4200" dy="2316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="5000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
