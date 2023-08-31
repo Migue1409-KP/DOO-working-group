@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T06:57:41.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="p40PGdYMJPBhBxgUH6Gf" version="21.7.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-08-31T07:14:34.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="iBly73nDIO-zwgp_VrGE" version="21.7.1" type="github" pages="14">
   <diagram id="-_urdX1vq66WWAMTATVX" name="BigPicture">
     <mxGraphModel dx="2465" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BoundedContext" id="NvzPgabB56JG8CDr3OxP">
-    <mxGraphModel dx="1997" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1997" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1066,7 +1066,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="goSpOSvy5qB9A--Nil6E" name="VisualStoryMappingV1">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="5000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="1057" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2099,7 +2099,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="aI_A-_ZwWPehArNnT7lD" name="Event Storming Maping Projects">
+  <diagram id="aI_A-_ZwWPehArNnT7lD" name="EventStormingMapingProjects">
     <mxGraphModel dx="1638" dy="1336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
