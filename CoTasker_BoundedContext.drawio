@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T15:36:34.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0XreKfyJ50GVj-ipBvcu" version="21.7.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-09-13T15:38:04.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Gs29J8OMm-yOR-qiJQmy" version="21.7.4" type="github" pages="15">
   <diagram id="-_urdX1vq66WWAMTATVX" name="BigPicture">
     <mxGraphModel dx="1877" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2253,8 +2253,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Su_q1jDuiFWgHj5AMdV-" name="Página-15">
-    <mxGraphModel dx="1235" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
+  <diagram id="Su_q1jDuiFWgHj5AMdV-" name="Diagrama de clases">
+    <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1569" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
