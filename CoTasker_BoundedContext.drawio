@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T22:08:39.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="gkdTf_xRNgFRGcFKCvDY" version="21.7.5" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-09-20T01:45:22.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="TZ5iLM_EHpUXzyigHCAn" version="21.7.5" type="github" pages="16">
   <diagram id="-_urdX1vq66WWAMTATVX" name="BigPicture">
-    <mxGraphModel dx="1877" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2117" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2457,7 +2457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8y8mxEgSbXTRqn7XjpZd" name="DiagramaClases8a">
-    <mxGraphModel dx="2333" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="992" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2479,7 +2479,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z63y-dRtW35lNjcfXwOP-6" value="ListaTarea" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="81" y="850" width="490" height="298" as="geometry" />
+          <mxGeometry x="81" y="845" width="490" height="298" as="geometry" />
         </mxCell>
         <mxCell id="z63y-dRtW35lNjcfXwOP-7" value="- idLista: uuid&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- nombre: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- descripción: string&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- fechaCreación: date&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- fechaLimite: date&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;-&amp;nbsp;estado: estado&lt;br&gt;- prioridad: string&lt;br&gt;- tareas: List&amp;lt;Tarea&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="z63y-dRtW35lNjcfXwOP-6" vertex="1">
           <mxGeometry y="26" width="490" height="134" as="geometry" />
@@ -2487,7 +2487,7 @@
         <mxCell id="z63y-dRtW35lNjcfXwOP-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="z63y-dRtW35lNjcfXwOP-6" vertex="1">
           <mxGeometry y="160" width="490" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="z63y-dRtW35lNjcfXwOP-9" value="+ crearTarea(idTarea,nombre,descripcion,fechaLimite,Estado,Prioridad,Asignado): void&lt;br&gt;+ buscarTarea (List&amp;lt;Tarea&amp;gt;) :Tarea&lt;br&gt;+ modificarnombreTarea (List&amp;lt;Tarea&amp;gt;) :void&lt;br&gt;+ modificarFechaTarea (List&amp;lt;Tarea&amp;gt;) :void&lt;br&gt;+ modificarDescripcionTarea (List&amp;lt;Tarea&amp;gt;) :void&lt;br&gt;+ modificarEstadoTarea (List&amp;lt;Tarea&amp;gt;) :void&lt;br&gt;+ modificarPrioridadTarea ( List&amp;lt;Tarea&amp;gt;) :void&lt;br&gt;+ modificarAsignadoTarea (List&amp;lt;Tarea&amp;gt;) :void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="z63y-dRtW35lNjcfXwOP-6" vertex="1">
+        <mxCell id="z63y-dRtW35lNjcfXwOP-9" value="+ crearTarea(idTarea,nombre,descripcion,fechaLimite,Estado,Prioridad,Asignado): void&lt;br&gt;+ buscarTarea (List&amp;lt;Tarea&amp;gt;) :Tarea&lt;br&gt;+ consultarTareas () :List&amp;lt;Tarea&amp;gt;&lt;br&gt;+ modificarnombreTarea (List&amp;lt;Tarea&amp;gt;) :void&lt;br&gt;+ modificarFechaTarea (List&amp;lt;Tarea&amp;gt;) :void&lt;br&gt;+ modificarDescripcionTarea (List&amp;lt;Tarea&amp;gt;) :void&lt;br&gt;+ modificarEstadoTarea (List&amp;lt;Tarea&amp;gt;) :void&lt;br&gt;+ modificarPrioridadTarea ( List&amp;lt;Tarea&amp;gt;) :void&lt;br&gt;+ modificarAsignadoTarea (List&amp;lt;Tarea&amp;gt;) :void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="z63y-dRtW35lNjcfXwOP-6" vertex="1">
           <mxGeometry y="168" width="490" height="130" as="geometry" />
         </mxCell>
         <mxCell id="z63y-dRtW35lNjcfXwOP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.593;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=diamond;startFill=1;endSize=7;startSize=12;" parent="1" source="z63y-dRtW35lNjcfXwOP-11" target="z63y-dRtW35lNjcfXwOP-35" edge="1">
@@ -2513,13 +2513,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z63y-dRtW35lNjcfXwOP-16" value="Tarea" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="1280" width="180" height="178" as="geometry" />
+          <mxGeometry x="70" y="1280" width="200" height="188" as="geometry" />
         </mxCell>
         <mxCell id="z63y-dRtW35lNjcfXwOP-17" value="-&amp;nbsp;idTarea: uuid&lt;br&gt;- nombre: String&lt;br&gt;- descripción: Date&lt;br&gt;- fechaLimite: Date&lt;br&gt;- estado: estado&lt;br&gt;- prioridad: String&lt;br&gt;- asignado: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="z63y-dRtW35lNjcfXwOP-16" vertex="1">
-          <mxGeometry y="26" width="180" height="134" as="geometry" />
+          <mxGeometry y="26" width="200" height="114" as="geometry" />
         </mxCell>
         <mxCell id="z63y-dRtW35lNjcfXwOP-18" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="z63y-dRtW35lNjcfXwOP-16" vertex="1">
-          <mxGeometry y="160" width="180" height="18" as="geometry" />
+          <mxGeometry y="140" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="nG0ew60QmS5wfVmkuk9n-1" value="+ consultar(tarea:Tarea) :List&amp;lt;Tarea&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="z63y-dRtW35lNjcfXwOP-16">
+          <mxGeometry y="158" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z63y-dRtW35lNjcfXwOP-20" value="Notificación" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="700" width="160" height="86" as="geometry" />
@@ -2604,10 +2607,10 @@
           <mxGeometry x="280" y="820" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z63y-dRtW35lNjcfXwOP-46" value="0...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="145" y="1250" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="1250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z63y-dRtW35lNjcfXwOP-47" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="1139" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="1148" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z63y-dRtW35lNjcfXwOP-48" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="515" width="60" height="30" as="geometry" />
